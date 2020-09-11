@@ -1,2 +1,2 @@
-# eb3_Jam-for-shape
-Introduction to COA lab.
+# e04_Legends
+Introduction to DBMS lab.
